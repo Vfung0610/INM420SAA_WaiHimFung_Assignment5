@@ -1,0 +1,16 @@
+.noMatch {
+  background-color: #131311;
+  height: 100vh;
+}
+
+.noMatch img {
+  margin: 0;
+  display: block;
+  width: 70%;
+
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

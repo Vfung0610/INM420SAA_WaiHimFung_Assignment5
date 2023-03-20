@@ -1,0 +1,19 @@
+.contact {
+  width: 550px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contact h2 {
+  text-align: center;
+}
+
+.contactInfo {
+  margin-top: 20px;
+
+  display: flex;
+  justify-content: space-between;
+}
